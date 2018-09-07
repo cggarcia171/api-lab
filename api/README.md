@@ -15,7 +15,3 @@ Bonus points will be awarded if you create your API with more than one data type
 * Create a git repository on your github account and send me the link via email.
 * Attach a database export / snapshot to your email.
 
-##Problems I had
-* So I am having two problems I think
-* Firstly there is nothing showing up on the webpage, but there is also no errors.
-* secondly there are no logs even after doing the composer require monolog thing. unless I put the code for the Log thing in the wrong place I dont know the problems
