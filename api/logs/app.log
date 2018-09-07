@@ -1,0 +1,4 @@
+[2018-09-07 15:01:08] my_logger.INFO: get /movies' [] []
+[2018-09-07 15:05:22] my_logger.INFO: get /movies' [] []
+[2018-09-07 15:06:23] my_logger.INFO: get /movies' [] []
+[2018-09-07 15:07:01] my_logger.INFO: get /movies' [] []
