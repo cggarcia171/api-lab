@@ -33,7 +33,7 @@ class App
     //     return $response;
     // });
     $app->get('/movies', function (Request $request, Response $res){
-      $this->logger->addInfo("get /movies'");
+      $this->logger->addInfo("get /movies");
       $movies = $this->db->query('SELECT * from movies')->fetchAll();
       $jsonRes = $res->withJson($movies);
       return $jsonRes;
